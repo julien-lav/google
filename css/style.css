@@ -137,3 +137,16 @@ span{
 .hide{
 	visibility: hidden;
 }
+.bigSquare{
+	margin-top: 60px;
+	width: 600px;
+	height: 600px;
+	margin: 0 auto;
+	background-color: purple;
+}
+p.square{
+	border: 1px solid black;
+	margin: 0;
+	padding: 0;
+	display: inline-block;
+}
